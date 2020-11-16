@@ -1,2 +1,2 @@
-# class24
-This is my Angry Birds game with classes and objects. 
+# angryBirdsStage1
+Stage 1 Angry Birds
